@@ -1,0 +1,31 @@
+C++ is a higher level programming language which uses classes and objects
+
+C++ Was created by Bjarne Strustrup In 1992 at bell laboratory,california.
+
+C with objects 
+
+C++ is An object Oriented programming language.It supports classes and objects .
+
+Real World Application:-
+1)Desktop Application.
+2)GUI Based Application:-
+3)compiler:-
+4)games
+5)Banking Applications:-
+6)Web Browsers:-
+
+Syntax:-
+#include<iostream>
+
+using namespace std; we can use variable as name 
+
+main()
+{
+code...
+}
+
+
+
+
+
+

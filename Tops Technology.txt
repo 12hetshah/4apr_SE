@@ -1,0 +1,89 @@
+Software Engineering:-
+Module-1-Overview  Of IT industry
+Module-2-c Programming-fundamental Of Programming 
+Module-3-oop-c++
+Module-4-Database
+
+
+
+Module-1
+
+What Is Computer?
+	computer is an electronic device that makes human life easier and faster
+Uses Of Computer:-Offices,banks,hotel,restaurant,school,colleges.
+
+Computer:-
+1)Hardware:- The Part Which we can touch and feel.
+	eg.Keyboard,mouse,cpu,dvd drive etc..
+2)Software:-The Part Which we cannot touch and feel
+	eg.VLC,vscode,powerpoint etc...
+
+What Is Program?
+It Is A set of instruction 
+
+To create a program we use programming 
+ Types of langauges:-c,c++,python,java,html,css,prolog etc...
+
+World Wide Web:-Web server
+
+	-known as a web
+	-is a collection of website and webpages stored in web servers
+	-connected to local computers through internet
+	-these websites contain text pages,audio,video etc...
+	-users can access from any part of the world using computer,laptop,cell phone 	 	 	 etc...
+
+
+How Internet Works?
+	
+	A server is where website is stored ,and it works a lot like your computer hard drive.
+	once the request arrives the server retrives the website and sends the correct data back to the computer
+	one of the best feature of the internet is the ability to communicate almost instantly with anyone in the world 
+
+E-Mail is one of the oldest and most universal way to communicate and share inforation on internet and billions people use it.
+
+
+Client & Server
+
+1)client Program
+.Running on end host
+.request services
+.eg web browser
+2)
+.Running on end host
+.provides services
+.eg web server
+
+Client-server communication 
+
+1)Clients"sometimes on"
+.initiates a request to the server
+.eg web browser on your laptop 
+.doesn't communicate with clients directly
+.needs to know the server address
+
+
+2)Server s "always on "
+.service request from many clients host  
+.eg webserver for  the www.example.com
+.doesn't initate contract with clients 
+.needs a fixed,well-known address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
