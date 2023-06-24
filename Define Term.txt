@@ -1,0 +1,13 @@
+Define Term:-
+
+1 Website:-a place connected to the Internet, where a company, organization, etc. puts information that can be found on the World Wide Web
+
+2 Webpage:-a hypertext document on the World Wide Web.
+
+3 Webbrowser:-A web browser is basically the software that we use for browsing on the internet and displaying pages.
+
+4 Webserver:-A web server refers to the software that provides its users with the documents they request via their web browsers.
+
+5 HTML:-Hypertext Markup Language 
+
+6 CSS:-Cascading Style Sheet
